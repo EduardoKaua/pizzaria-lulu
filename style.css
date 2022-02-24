@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   text-align: center;
   background-image: url(pizza.jpg);
@@ -8,3 +9,8 @@ body {
 .tudo {
   background-color: black;
 }
+=======
+body{
+    background-color: rgb(236, 189, 131);
+}
+>>>>>>> a68eb002bd035542609ed0967277af1411f0096c
