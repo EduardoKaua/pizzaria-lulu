@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-image: url(pizza.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: 115%;
+}
+
+.tudo {
+  background-color: black;
+}
