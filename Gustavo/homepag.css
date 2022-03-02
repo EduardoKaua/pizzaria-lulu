@@ -1,23 +1,21 @@
 body {
-    background-color: rgb(236,189,131);
+    background-color: rgb(250, 245, 239);
 }
 #titulo {
-    color: red;
+    color: rgb(255, 255, 255);
     font-size: 33px;
     text-align: center;
-    text-decoration: underline;
-    background-color: rgb(233, 147, 18);
+    background-color:rgb(21, 105, 59);
     width: 1400px;
     margin: -0.6%;
-    padding: 18px;
-    border-bottom: solid 3px red;
+    padding: 28px;
+    border-bottom: solid 3px rgb(43, 40, 40);
 }
 
 #sobre-titulo {
     color: red;
     text-align: center;
     font-size: 30px;
-    ;
 }
 
 .sobre {
@@ -25,13 +23,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 19px;
 }
-.imagem {
 
-    width: 400px;
-    height: 400px;
-    bottom: 30px;
-    background:url('pizzaa.jpg ');
-}
 .texto {
     position: absolute;
     background-color: rgba(0,0,0,0.5);
