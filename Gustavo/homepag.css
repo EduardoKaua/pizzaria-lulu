@@ -1,15 +1,39 @@
 body {
     background-color: rgb(250, 245, 239);
 }
-#titulo {
+#cima {
     color: rgb(255, 255, 255);
-    font-size: 33px;
+    font-size: 20px;
     text-align: center;
     background-color:rgb(21, 105, 59);
-    width: 1400px;
+    width: 1320px;
     margin: -0.6%;
-    padding: 28px;
+    padding: 50px;
     border-bottom: solid 3px rgb(43, 40, 40);
+}
+
+a {
+    color: white;
+    position: relative;
+    left: 551px;
+    font-size: 22px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, xsans-serif;
+    bottom: 56px;
+    padding: 5px;
+    
+}
+
+a:hover {
+    color: black;
+    transition-duration: 0.25s;
+}
+
+.registrar {
+    position: relative;
+    font-size: 22px;
+    left: 890px;
+    
 }
 
 #sobre-titulo {
