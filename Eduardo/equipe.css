@@ -1,0 +1,39 @@
+body {
+  background-color: magenta;
+  display: grid;
+  place-items: center;
+}
+
+h2 {
+  font-size: 22px;
+  text-align: center;
+}
+
+a {
+  color: rgb(114, 22, 201);
+  text-align: center;
+}
+
+a:hover {
+  color: blue;
+  transition-duration: 0.2s;
+}
+
+#projeto {
+  color: rgb(114, 22, 201);
+  position: relative;
+  top: 140px;
+  font-size: 24px;
+}
+div {
+  color: white;
+  background-color: rgb(36, 28, 109);
+  place-items: center;
+  width: 650px;
+  border-radius: 15px;
+  box-shadow: 4px 4px 10px lime;
+}
+img {
+  margin-left: 15%;
+  margin-bottom: 50px;
+}
